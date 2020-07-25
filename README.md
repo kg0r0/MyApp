@@ -18,7 +18,7 @@ $ npx react-native doctor
 $ cd ios/
 $ pod install --repo-update
 $ cd ..
-$ npx native run-ios
+$ npx react-native run-ios
 ```
 - Xcode
 ```
