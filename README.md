@@ -1,4 +1,5 @@
 # MyApp
+[![CircleCI](https://circleci.com/gh/kg0r0/MyApp.svg?style=svg)](https://circleci.com/gh/kg0r0/MyApp)
 
 ## Setup 
 
